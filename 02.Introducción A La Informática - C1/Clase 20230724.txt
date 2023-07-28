@@ -1,0 +1,15 @@
+https://padlet.com/marceforerogomez/clon-de-padlet-inicio-roxcyjrxuotlsekd
+
+$ mkdir informes
+$ cd informes
+$ touch informeAnual.xls
+$ ls
+
+$ mkdir auditoria
+$ touch auditoria.xls
+$ touch reporteConsolidado.xls
+$ ls
+
+$ mv auditoria.xls auditoria
+$ cd auditoria
+$ ls
